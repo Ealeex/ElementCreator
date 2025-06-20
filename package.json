@@ -1,11 +1,16 @@
 {
-  "name": "elementmaker",
+  "name": "elementcreator",
   "type": "module",
   "version": "1.0.0",
   "description": "Typescript driven static class that enables easy creation of DOMElements.",
-  "main": "./dist/index.js",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Ealeex/elementcreator.git"
   },
   "author": "Ethan Lee",
   "license": "MIT",
