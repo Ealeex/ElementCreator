@@ -1,5 +1,5 @@
 {
-  "name": "@ealeex/elementcreator",
+  "name": "@ealeex/element-creator",
   "type": "module",
   "version": "1.0.1",
   "description": "Typescript driven static class that enables easy creation of DOMElements.",
