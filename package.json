@@ -1,8 +1,9 @@
 {
   "name": "elementmaker",
+  "type": "module",
   "version": "1.0.0",
   "description": "Typescript driven static class that enables easy creation of DOMElements.",
-  "main": "index.js",
+  "main": "./dist/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
