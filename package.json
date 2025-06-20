@@ -10,7 +10,11 @@
   },
   "repository": {
     "type": "git",
+<<<<<<< HEAD
     "url": "git+https://github.com/Ealeex/ElementCreator.git"
+=======
+    "url": "https://github.com/Ealeex/ElementCreator.git"
+>>>>>>> 34d18138a846eec7eb8179fff13325c0dea5cae4
   },
   "author": "Ethan Lee",
   "license": "MIT",
